@@ -7,8 +7,8 @@
   },
   "packages": [
     {
-      "id": "com.github.k4zmu2a.space-cadet-pinball",
-      "title": "3D Pinball \u2013 Space Cadet",
+      "id": "BackendsHDR",
+      "title": "BackendsHDR",
       "iconUri": "https://raw.githubusercontent.com/webosbrew/SpaceCadetPinball/webos/webos/icon.png",
       "manifestUrl": "https://github.com/webosbrew/SpaceCadetPinball/releases/download/v0.0.3/webosbrew.manifest.json",
       "manifest": {
@@ -31,8 +31,8 @@
       "fullDescriptionUrl": "apps/com.github.k4zmu2a.space-cadet-pinball-full_description.html"
     },
     {
-      "id": "org.chocolate-doom.demo",
-      "title": "Chocolate Doom Demo",
+      "id": "Hyperhdr",
+      "title": "HyperHDR mod",
       "iconUri": "https://raw.githubusercontent.com/webosbrew/chocolate-doom/webos-tv/data/doom.png",
       "manifestUrl": "https://github.com/webosbrew/chocolate-doom/releases/download/webos-demo-0.0.1/org.chocolate-doom.demo.manifest.json",
       "manifest": {
@@ -53,6 +53,6 @@
       "pool": "main",
       "shortDescription": "Technical Demo for Chocolate Doom",
       "fullDescriptionUrl": "apps/org.chocolate-doom.demo-full_description.html"
-    },
+    }
   ]
 }
