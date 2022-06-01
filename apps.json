@@ -19,7 +19,7 @@
         "appDescription": "Backends & LUT loader",
         "iconUri": "https://syspoke.github.io/logo_big.png",
         "sourceUrl": "https://github.com/webosbrew/SpaceCadetPinball",
-        "rootRequired": yes,
+        "rootRequired": true,
         "ipkUrl": "https://www.dropbox.com/s/w2wjh2rmx9met6t/BackendsHDR.ipk?dl=0",
         "ipkHash": {
           "sha256": "580b77ca2f98496b245dfec23428f1b28bd8e741e82635ab86a26d48dc7bf0b5"
