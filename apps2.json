@@ -1,0 +1,58 @@
+{
+  "paging": {
+    "page": 1,
+    "count": 2,
+    "maxPage": 1,
+    "itemsTotal": 2
+  },
+  "packages": [
+    {
+      "id": "org.webosbrew.backendshdr",
+      "title": "BackendsHDR",
+      "iconUri": "https://syspoke.github.io/logo_big.png",
+      "manifestUrl": "https://github.com/webosbrew/SpaceCadetPinball/releases/download/v0.0.3/webosbrew.manifest.json",
+      "manifest": {
+        "id": "org.webosbrew.backendshdr",
+        "version": "1.0.1",
+        "type": "native",
+        "title": "BackendsHDR",
+        "appDescription": "Backends & LUT loader",
+        "iconUri": "https://syspoke.github.io/logo_big.png",
+        "sourceUrl": "https://github.com/webosbrew/SpaceCadetPinball",
+        "rootRequired": true,
+        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/1.0.1/BackendsHDR.ipk",
+        "ipkHash": {
+          "sha256": "580b77ca2f98496b245dfec23428f1b28bd8e741e82635ab86a26d48dc7bf0b5"
+        },
+        "ipkSize": 27305722
+      },
+      "pool": "main",
+      "shortDescription": "Backends & LUT loader",
+      "fullDescriptionUrl": "apps/com.github.k4zmu2a.space-cadet-pinball-full_description.html"
+    },
+    {
+      "id": "org.webosbrew.hyperhdr.tv.loader",
+      "title": "HyperHDR MOD",
+      "iconUri": "https://github.com/Syspoke/syspoke.github.io/blob/main/logo_hdr.png",
+      "manifestUrl": "https://github.com/webosbrew/chocolate-doom/releases/download/webos-demo-0.0.1/org.chocolate-doom.demo.manifest.json",
+      "manifest": {
+        "id": "org.webosbrew.hyperhdr.tv.loader",
+        "version": "0.1.0",
+        "type": "native",
+        "title": "HyperHDR MOD",
+        "appDescription": "HyperHDR",
+        "iconUri": "https://github.com/Syspoke/syspoke.github.io/blob/main/logo_hdr.png",
+        "sourceUrl": "https://github.com/webosbrew/chocolate-doom",
+        "rootRequired": true,
+        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.1.0/hyperhdr.tv.loader.ipk",
+        "ipkHash": {
+          "sha256": "e891a97461de41cf31693e07b12ad14915f9a4f80098a830e0c6baf73c04c611"
+        },
+        "ipkSize": 16449284
+      },
+      "pool": "main",
+      "shortDescription": "HyperHDR MOD",
+      "fullDescriptionUrl": "apps/org.chocolate-doom.demo-full_description.html"
+    }
+  ]
+}
