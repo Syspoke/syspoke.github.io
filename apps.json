@@ -20,7 +20,7 @@
         "iconUri": "https://syspoke.github.io/logo_big.png",
         "sourceUrl": "https://github.com/webosbrew/SpaceCadetPinball",
         "rootRequired": true,
-        "ipkUrl": "https://www.dropbox.com/s/w2wjh2rmx9met6t/BackendsHDR.ipk?dl=0",
+        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/1.0.1/BackendsHDR.ipk",
         "ipkHash": {
           "sha256": "580b77ca2f98496b245dfec23428f1b28bd8e741e82635ab86a26d48dc7bf0b5"
         },
