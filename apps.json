@@ -29,6 +29,30 @@
       "pool": "main",
       "shortDescription": "Backends & LUT loader",
       "fullDescriptionUrl": "apps/com.github.k4zmu2a.space-cadet-pinball-full_description.html"
+    },
+    {
+      "id": "org.webosbrew.hyperhdr.tv.loader",
+      "title": "HyperHDR MOD",
+      "iconUri": "https://github.com/Syspoke/syspoke.github.io/blob/main/logo_hdr.png",
+      "manifestUrl": "https://github.com/webosbrew/chocolate-doom/releases/download/webos-demo-0.0.1/org.chocolate-doom.demo.manifest.json",
+      "manifest": {
+        "id": "org.webosbrew.hyperhdr.tv.loader",
+        "version": "0.1.0",
+        "type": "native",
+        "title": "HyperHDR MOD",
+        "appDescription": "HyperHDR",
+        "iconUri": "https://github.com/Syspoke/syspoke.github.io/blob/main/logo_hdr.png",
+        "sourceUrl": "https://github.com/webosbrew/chocolate-doom",
+        "rootRequired": true,
+        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.1.0/hyperhdr.tv.loader.ipk",
+        "ipkHash": {
+          "sha256": "e891a97461de41cf31693e07b12ad14915f9a4f80098a830e0c6baf73c04c611"
+        },
+        "ipkSize": 16449284
+      },
+      "pool": "main",
+      "shortDescription": "HyperHDR MOD",
+      "fullDescriptionUrl": "apps/org.chocolate-doom.demo-full_description.html"
     }
   ]
 }
