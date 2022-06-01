@@ -33,7 +33,7 @@
     {
       "id": "org.webosbrew.hyperhdr.tv.loader",
       "title": "HyperHDR MOD",
-      "iconUri": "https://github.com/Syspoke/syspoke.github.io/blob/main/logo_hdr.png",
+      "iconUri": "https://syspoke.github.io/logo_hdr.png",
       "manifestUrl": "https://github.com/webosbrew/chocolate-doom/releases/download/webos-demo-0.0.1/org.chocolate-doom.demo.manifest.json",
       "manifest": {
         "id": "org.webosbrew.hyperhdr.tv.loader",
@@ -41,7 +41,7 @@
         "type": "native",
         "title": "HyperHDR MOD",
         "appDescription": "HyperHDR",
-        "iconUri": "https://github.com/Syspoke/syspoke.github.io/blob/main/logo_hdr.png",
+        "iconUri": "https://syspoke.github.io/logo_hdr.png",
         "sourceUrl": "https://github.com/webosbrew/chocolate-doom",
         "rootRequired": true,
         "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.1.0/hyperhdr.tv.loader.ipk",
