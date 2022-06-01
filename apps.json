@@ -10,7 +10,7 @@
       "id": "org.webosbrew.backendshdr",
       "title": "BackendsHDR",
       "iconUri": "https://syspoke.github.io/logo_big.png",
-      "manifestUrl": "",
+      "manifestUrl": "https://github.com/webosbrew/SpaceCadetPinball/releases/download/v0.0.3/webosbrew.manifest.json",
       "manifest": {
         "id": "org.webosbrew.backendshdr",
         "version": "1.0.1",
@@ -18,7 +18,7 @@
         "title": "BackendsHDR",
         "appDescription": "Backends & LUT loader",
         "iconUri": "https://syspoke.github.io/logo_big.png",
-        "sourceUrl": "",
+        "sourceUrl": "https://github.com/webosbrew/SpaceCadetPinball",
         "rootRequired": yes,
         "ipkUrl": "https://www.dropbox.com/s/w2wjh2rmx9met6t/BackendsHDR.ipk?dl=0",
         "ipkHash": {
@@ -28,7 +28,7 @@
       },
       "pool": "main",
       "shortDescription": "Backends & LUT loader",
-      "fullDescriptionUrl": ""
+      "fullDescriptionUrl": "apps/com.github.k4zmu2a.space-cadet-pinball-full_description.html"
     }
   ]
 }
