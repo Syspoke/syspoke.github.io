@@ -18,7 +18,7 @@
         "title": "BackendsHDR",
         "appDescription": "Backends & LUT loader",
         "iconUri": "https://syspoke.github.io/logo_big.png",
-        "sourceUrl": "https://github.com/webosbrew/SpaceCadetPinball",
+        "sourceUrl": "https://github.com/webosbrew/custom-screensaver",
         "rootRequired": true,
         "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/1.0.1/BackendsHDR.ipk",
         "ipkHash": {
@@ -34,7 +34,7 @@
       "id": "org.webosbrew.hyperhdr.tv.loader",
       "title": "HyperHDR MOD",
       "iconUri": "https://syspoke.github.io/logo_hdr.png",
-      "manifestUrl": "https://github.com/webosbrew/chocolate-doom/releases/download/webos-demo-0.0.1/org.chocolate-doom.demo.manifest.json",
+      "manifestUrl": "",
       "manifest": {
         "id": "org.webosbrew.hyperhdr.tv.loader",
         "version": "0.1.0",
@@ -42,7 +42,7 @@
         "title": "HyperHDR MOD",
         "appDescription": "HyperHDR",
         "iconUri": "https://syspoke.github.io/logo_hdr.png",
-        "sourceUrl": "https://github.com/webosbrew/chocolate-doom",
+        "sourceUrl": "https://github.com/webosbrew/hyperhdr-webos-loader",
         "rootRequired": true,
         "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.1.0/hyperhdr.tv.loader.ipk",
         "ipkHash": {
