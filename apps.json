@@ -10,7 +10,7 @@
       "id": "org.webosbrew.backendshdr",
       "title": "BackendsHDR",
       "iconUri": "https://syspoke.github.io/logo_big.png",
-      "manifestUrl": "https://github.com/webosbrew/SpaceCadetPinball/releases/download/v0.0.3/webosbrew.manifest.json",
+      "manifestUrl": "",
       "manifest": {
         "id": "org.webosbrew.backendshdr",
         "version": "1.0.1",
