@@ -5,7 +5,7 @@ Apps:
 
 * __HyperHDR Mod__
 
-Light version with some modifications
+Light version with some tweaks
 
 Updated frequently
 
