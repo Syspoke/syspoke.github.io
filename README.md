@@ -20,3 +20,10 @@ Piccap 0.2.3 Fix GUI
 * __PicCap OnOff remote control__
 
 Use the Movie/Rakuten button on the remote control to stop or start PicCap capture
+
+
+# Configure Repo in Homebrew Channel settings:
+
+Add repository url:
+
+https://syspoke.github.io/apps.json
