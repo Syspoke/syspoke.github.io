@@ -37,16 +37,16 @@
       "manifestUrl": "",
       "manifest": {
         "id": "org.webosbrew.hyperhdr.tv.loader",
-        "version": "0.1.2",
+        "version": "0.1.3",
         "type": "native",
         "title": "HyperHDR MOD LUT",
         "appDescription": "HyperHDR",
         "iconUri": "https://syspoke.github.io/logo_hdr.png",
         "sourceUrl": "https://github.com/webosbrew/hyperhdr-webos-loader",
         "rootRequired": true,
-        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.1.2/hyperhdr.tv.loader.ipk",
+        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.1.3/hyperhdr.tv.loader.ipk",
         "ipkHash": {
-          "sha256": "37d64c900320ed6e53c9847c1e8125c2be43a9017c40b62de42716c0914bf847"
+          "sha256": "722b9839f5d01111cb964b8355dabc247a630e00c3f433fbaf5770c8ee35178f"
         },
         "ipkSize": 41222916
       },
