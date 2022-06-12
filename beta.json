@@ -57,7 +57,7 @@
     {
       "id": "ui30",
       "title": "Piccap OnOff Remote Button",
-      "iconUri": "https://syspoke.github.io/logo-ui30.png",
+      "iconUri": "https://syspoke.github.io/logo_ui30.png",
       "manifestUrl": "",
       "manifest": {
         "id": "ui30",
@@ -65,7 +65,7 @@
         "type": "web",
         "title": "Piccap OnOff Remote Button",
         "appDescription": "Piccap OnOff Remote Button",
-        "iconUri": "https://syspoke.github.io/logo-ui30.png",
+        "iconUri": "https://syspoke.github.io/logo_ui30.png",
         "sourceUrl": "",
         "rootRequired": true,
         "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.0.8/ui30.ipk",
