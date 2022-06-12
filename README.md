@@ -13,7 +13,7 @@ Updated frequently
 
 * __PicCap 0.2.3 Mod__
 
-includes unicapture backend with auto HDR switch and fix flashing led.
+includes unicapture backend with auto HDR switch and led flickering Fix
 
 * __PicCap OnOff remote control__
 
