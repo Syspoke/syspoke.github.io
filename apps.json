@@ -7,48 +7,48 @@
   },
   "packages": [
     {
-      "id": "org.webosbrew.backendshdr",
-      "title": "BackendsHDR",
+      "id": "org.webosbrew.piccap",
+      "title": "PicCap 0.2.3 MOD",
       "iconUri": "https://syspoke.github.io/logo_big.png",
       "manifestUrl": "",
       "manifest": {
-        "id": "org.webosbrew.backendshdr",
-        "version": "1.0.1",
+        "id": "org.webosbrew.piccap",
+        "version": "0.2.3",
         "type": "web",
-        "title": "BackendsHDR",
-        "appDescription": "Backends & LUT loader",
+        "title": "PicCap 0.2.3 MOD",
+        "appDescription": "Piccap 0.2.3 MOD",
         "iconUri": "https://syspoke.github.io/logo_big.png",
-        "sourceUrl": "https://github.com/webosbrew/custom-screensaver",
+        "sourceUrl": "https://github.com/webosbrew/piccap",
         "rootRequired": true,
-        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/1.0.1/BackendsHDR.ipk",
+        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.2.3/piccap.ipk",
         "ipkHash": {
-          "sha256": "580b77ca2f98496b245dfec23428f1b28bd8e741e82635ab86a26d48dc7bf0b5"
+          "sha256": "9153208b6adefd6d0470ec4dcbc052a86289002ea6fcf0ec17e9aba14cc8af8f"
         },
-        "ipkSize": 27305722
+        "ipkSize": 2506656
       },
       "pool": "main",
-      "shortDescription": "Backends & LUT loader",
+      "shortDescription": "piccap 0.2.3 MOD",
       "fullDescriptionUrl": "index.html"
     },
     {
       "id": "org.webosbrew.hyperhdr.tv.loader",
-      "title": "HyperHDR MOD",
+      "title": "HyperHDR MOD LUT",
       "iconUri": "https://syspoke.github.io/logo_hdr.png",
       "manifestUrl": "",
       "manifest": {
         "id": "org.webosbrew.hyperhdr.tv.loader",
-        "version": "0.1.1",
+        "version": "0.1.4",
         "type": "native",
-        "title": "HyperHDR MOD",
+        "title": "HyperHDR MOD LUT",
         "appDescription": "HyperHDR",
         "iconUri": "https://syspoke.github.io/logo_hdr.png",
         "sourceUrl": "https://github.com/webosbrew/hyperhdr-webos-loader",
         "rootRequired": true,
-        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.1.1/hyperhdr.tv.loader.ipk",
+        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.1.4/hyperhdr.tv.loader.ipk",
         "ipkHash": {
-          "sha256": "39f1236baf82c4ef21a2bba1beb6251ab0081b8bcd1192cf79424efc1e1bd2ec"
+          "sha256": "903239a460542fb2f3938f2a1920d563a091e01dadea0774f298921c3978509d"
         },
-        "ipkSize": 16499934
+        "ipkSize": 41222916
       },
       "pool": "main",
       "shortDescription": "HyperHDR MOD",
