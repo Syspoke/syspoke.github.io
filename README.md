@@ -7,9 +7,19 @@ Apps:
 
 Light version with some tweaks
 
+Awawa Flat LUT included
+
 Updated frequently
 
-* __BackendsHDR__
+* __PicCap 0.2.3 Mod__
+
+includes unicapture backend with auto HDR switch and fix flashing led.
+
+* __PicCap OnOff remote control__
+
+Use the Movie/Rakuten button on the remote control to stop or start PicCap capture
+
+* __BackendsHDR__ [removed]
 
 Unicapture Backends with HDR auto switch/Led flickering FIX
 
@@ -17,13 +27,13 @@ Flat LUT loader for hyperHDR
 
 Piccap 0.2.3 Fix GUI
 
-* __PicCap OnOff remote control__
-
-Use the Movie/Rakuten button on the remote control to stop or start PicCap capture
-
 
 # Configure Repo in Homebrew Channel settings:
 
 Add repository url:
 
 https://syspoke.github.io/apps.json
+
+Add beta repository url:
+
+https://syspoke.github.io/beta.json
