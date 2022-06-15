@@ -31,7 +31,7 @@
       "fullDescriptionUrl": "index.html"
     },
     {
-      "id": "org.webosbrew.piccap",
+      "id": "org.webosbrew.piccap.0.3.0",
       "title": "PicCap 0.3.0 MOD",
       "iconUri": "https://syspoke.github.io/logo_pic.png",
       "manifestUrl": "",
@@ -103,7 +103,7 @@
       "fullDescriptionUrl": "index.html"
     },
     {
-      "id": "ui30 v2",
+      "id": "ui30v2",
       "title": "v2 Piccap OnOff Remote Button",
       "iconUri": "https://syspoke.github.io/logo_ui30.png",
       "manifestUrl": "",
