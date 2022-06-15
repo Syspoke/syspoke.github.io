@@ -15,11 +15,16 @@ Updated frequently
 
 includes unicapture backend with auto HDR switch and led flickering Fix
 
+* __PicCap 0.3.0 Mod [javascript UI]__
+
+includes unicapture backend with auto HDR switch and led flickering Fix
+
 * __PicCap OnOff remote control__
 
 Use the Movie/Rakuten button on the remote control to stop or start PicCap capture
+Use with piccap 0.2.3 or piccap 0.3.0 MOD
 
-* __BackendsHDR__ [removed]
+* __BackendsHDR__ [Moved in backup repo]
 
 Unicapture Backends with HDR auto switch/Led flickering FIX
 
@@ -30,10 +35,10 @@ Piccap 0.2.3 Fix GUI
 
 # Configure Repo in Homebrew Channel settings:
 
-Add repository url:
+Add Apps repository url:
 
 https://syspoke.github.io/apps.json
 
-Add beta repository url:
+Add backup repository url:
 
-https://syspoke.github.io/beta.json
+https://syspoke.github.io/backup.json

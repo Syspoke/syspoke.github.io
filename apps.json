@@ -1,9 +1,9 @@
 {
   "paging": {
     "page": 1,
-    "count": 3,
+    "count": 5,
     "maxPage": 1,
-    "itemsTotal": 3
+    "itemsTotal": 5
   },
   "packages": [
     {
@@ -80,14 +80,14 @@
     },
     {
       "id": "ui30",
-      "title": "Piccap OnOff Remote Button",
+      "title": "v1 Piccap OnOff Remote Button",
       "iconUri": "https://syspoke.github.io/logo_ui30.png",
       "manifestUrl": "",
       "manifest": {
         "id": "ui30",
         "version": "0.0.8",
         "type": "web",
-        "title": "Piccap OnOff Remote Button",
+        "title": "v1 Piccap OnOff Remote Button",
         "appDescription": "Piccap OnOff Remote Button",
         "iconUri": "https://syspoke.github.io/logo_ui30.png",
         "sourceUrl": "",
@@ -99,7 +99,31 @@
         "ipkSize": 19394
       },
       "pool": "main",
-      "shortDescription": "Piccap OnOff Remote Button",
+      "shortDescription": "v1 Piccap OnOff Remote Button",
+      "fullDescriptionUrl": "index.html"
+    },
+    {
+      "id": "ui30",
+      "title": "v2 Piccap OnOff Remote Button",
+      "iconUri": "https://syspoke.github.io/logo_ui30.png",
+      "manifestUrl": "",
+      "manifest": {
+        "id": "ui30",
+        "version": "0.0.9",
+        "type": "web",
+        "title": "v2 Piccap OnOff Remote Button",
+        "appDescription": "Piccap OnOff Remote Button",
+        "iconUri": "https://syspoke.github.io/logo_ui30.png",
+        "sourceUrl": "",
+        "rootRequired": true,
+        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.0.9/ui30.ipk",
+        "ipkHash": {
+          "sha256": "ed00be18f96f2b158ca4fc890e6097e7907e85cc1999424e92752764ad8d8a2d"
+        },
+        "ipkSize": 19394
+      },
+      "pool": "main",
+      "shortDescription": "v2 Piccap OnOff Remote Button",
       "fullDescriptionUrl": "index.html"
     }
 
