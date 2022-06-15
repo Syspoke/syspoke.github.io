@@ -29,7 +29,7 @@ Use with piccap 0.2.3 or piccap 0.3.0 MOD
 Use the Movie/Rakuten button on the remote control to stop or start PicCap capture
 Use with latest Piccap build
 
-* __BackendsHDR__ [Moved in backup repo]
+* __BackendsHDR__
 
 Unicapture Backends with HDR auto switch/Led flickering FIX
 
@@ -37,13 +37,10 @@ Flat LUT loader for hyperHDR
 
 Piccap 0.2.3 Fix GUI
 
+Use only with original Piccap 0.2.3 build
 
 # Configure Repo in Homebrew Channel settings:
 
 Add Apps repository url:
 
 https://syspoke.github.io/apps.json
-
-Add backup repository url:
-
-https://syspoke.github.io/backup.json
