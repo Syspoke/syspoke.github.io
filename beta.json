@@ -1,11 +1,35 @@
 {
   "paging": {
     "page": 1,
-    "count": 3,
+    "count": 2,
     "maxPage": 1,
-    "itemsTotal": 3
+    "itemsTotal": 2
   },
   "packages": [
+    {
+      "id": "org.webosbrew.backendshdr",
+      "title": "BackendsHDR",
+      "iconUri": "https://syspoke.github.io/logo_big.png",
+      "manifestUrl": "",
+      "manifest": {
+        "id": "org.webosbrew.backendshdr",
+        "version": "1.0.1",
+        "type": "web",
+        "title": "BackendsHDR",
+        "appDescription": "Backends & LUT loader",
+        "iconUri": "https://syspoke.github.io/logo_big.png",
+        "sourceUrl": "https://github.com/webosbrew/custom-screensaver",
+        "rootRequired": true,
+        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/1.0.1/BackendsHDR.ipk",
+        "ipkHash": {
+          "sha256": "580b77ca2f98496b245dfec23428f1b28bd8e741e82635ab86a26d48dc7bf0b5"
+        },
+        "ipkSize": 27305722
+      },
+      "pool": "main",
+      "shortDescription": "Backends & LUT loader",
+      "fullDescriptionUrl": "index.html"
+    },
     {
       "id": "org.webosbrew.piccap",
       "title": "PicCap 0.2.3 MOD",
@@ -29,55 +53,6 @@
       "pool": "main",
       "shortDescription": "piccap 0.2.3 MOD",
       "fullDescriptionUrl": "beta.html"
-    },
-    {
-      "id": "org.webosbrew.hyperhdr.tv.loader",
-      "title": "HyperHDR MOD LUT",
-      "iconUri": "https://syspoke.github.io/logo_hdr.png",
-      "manifestUrl": "",
-      "manifest": {
-        "id": "org.webosbrew.hyperhdr.tv.loader",
-        "version": "0.1.4",
-        "type": "native",
-        "title": "HyperHDR MOD LUT",
-        "appDescription": "HyperHDR",
-        "iconUri": "https://syspoke.github.io/logo_hdr.png",
-        "sourceUrl": "https://github.com/webosbrew/hyperhdr-webos-loader",
-        "rootRequired": true,
-        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.1.4/hyperhdr.tv.loader.ipk",
-        "ipkHash": {
-          "sha256": "903239a460542fb2f3938f2a1920d563a091e01dadea0774f298921c3978509d"
-        },
-        "ipkSize": 41222916
-      },
-      "pool": "main",
-      "shortDescription": "HyperHDR MOD",
-      "fullDescriptionUrl": "beta.html"
-    },
-    {
-      "id": "ui30",
-      "title": "Piccap OnOff Remote Button",
-      "iconUri": "https://syspoke.github.io/logo_ui30.png",
-      "manifestUrl": "",
-      "manifest": {
-        "id": "ui30",
-        "version": "0.0.8",
-        "type": "web",
-        "title": "Piccap OnOff Remote Button",
-        "appDescription": "Piccap OnOff Remote Button",
-        "iconUri": "https://syspoke.github.io/logo_ui30.png",
-        "sourceUrl": "",
-        "rootRequired": true,
-        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.0.8/ui30.ipk",
-        "ipkHash": {
-          "sha256": "6be7996aaf3036e9de8a9a0c9f255e2101b8dea6983f5f0e89b8c7f4157748c5"
-        },
-        "ipkSize": 19394
-      },
-      "pool": "main",
-      "shortDescription": "Piccap OnOff Remote Button",
-      "fullDescriptionUrl": "beta.html"
     }
-
   ]
 }
