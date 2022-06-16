@@ -28,7 +28,7 @@
       },
       "pool": "main",
       "shortDescription": "piccap 0.2.3 MOD",
-      "fullDescriptionUrl": "index.html"
+      "fullDescriptionUrl": "index1.html"
     },
     {
       "id": "org.webosbrew.piccap.0.3.0",
@@ -52,7 +52,7 @@
       },
       "pool": "main",
       "shortDescription": "piccap 0.3.0 MOD",
-      "fullDescriptionUrl": "index.html"
+      "fullDescriptionUrl": "index1.html"
     },
     {
       "id": "org.webosbrew.hyperhdr.tv.loader",
@@ -76,7 +76,7 @@
       },
       "pool": "main",
       "shortDescription": "HyperHDR MOD",
-      "fullDescriptionUrl": "index.html"
+      "fullDescriptionUrl": "index1.html"
     },
     {
       "id": "ui30",
@@ -100,7 +100,7 @@
       },
       "pool": "main",
       "shortDescription": "v1 Piccap OnOff Remote Button",
-      "fullDescriptionUrl": "index.html"
+      "fullDescriptionUrl": "index1.html"
     },
     {
       "id": "ui30v2",
@@ -124,7 +124,7 @@
       },
       "pool": "main",
       "shortDescription": "v2 Piccap OnOff Remote Button",
-      "fullDescriptionUrl": "index.html"
+      "fullDescriptionUrl": "index1.html"
     },
     {
       "id": "org.webosbrew.backendshdr",
@@ -148,7 +148,7 @@
       },
       "pool": "main",
       "shortDescription": "Backends & LUT loader",
-      "fullDescriptionUrl": "index.html"
+      "fullDescriptionUrl": "index1.html"
     }
   ]
 }
