@@ -43,4 +43,4 @@ Use only with original Piccap 0.2.3 build
 
 Add Apps repository url:
 
-https://syspoke.github.io/apps.json
+https://syspoke.github.io
