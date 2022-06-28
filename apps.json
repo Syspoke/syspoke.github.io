@@ -104,21 +104,21 @@
     },
     {
       "id": "org.webosbrew.backendshdr2",
-      "title": "BackendsHDR v2 test",
+      "title": "BackendsHDR v3 test",
       "iconUri": "https://syspoke.github.io/logo_big.png",
       "manifestUrl": "",
       "manifest": {
         "id": "org.webosbrew.backendshdr2",
-        "version": "1.0.3",
+        "version": "1.0.4",
         "type": "web",
-        "title": "BackendsHDR v2 test",
+        "title": "BackendsHDR v3 test",
         "appDescription": "Backends & LUT loader",
         "iconUri": "https://syspoke.github.io/logo_big.png",
         "sourceUrl": "https://github.com/webosbrew/custom-screensaver",
         "rootRequired": true,
-        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/1.0.3/BackendsHDR.ipk",
+        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/1.0.4/BackendsHDR.ipk",
         "ipkHash": {
-          "sha256": "2ce17d6430b401bee3b3eba3b6517231d71d22228ce6275976c3832beaa1bc57"
+          "sha256": "76b7102b3794c05e26fc688e9a31e5cd22f64f14fefafebb467df79d3c46d84f"
         },
         "ipkSize": 27305722
       },
