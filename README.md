@@ -18,12 +18,12 @@ includes unicapture backend with auto HDR switch and led flickering Fix
 * __v1 PicCap OnOff remote control__
 
 Use the Movie/Rakuten button on the remote control to stop or start PicCap capture
-Use with piccap 0.2.3 or piccap 0.3.0 MOD
+Use with piccap 0.2.3 build.
 
 * __v2 PicCap OnOff remote control__
 
 Use the Movie/Rakuten button on the remote control to stop or start PicCap capture
-Use with latest Piccap build
+Use with latest 0.3.0 Piccap build
 
 * __webOS Tools__
 
