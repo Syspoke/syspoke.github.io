@@ -118,7 +118,7 @@
         "rootRequired": true,
         "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/1.0.4/BackendsHDR.ipk",
         "ipkHash": {
-          "sha256": "76b7102b3794c05e26fc688e9a31e5cd22f64f14fefafebb467df79d3c46d84f"
+          "sha256": "18321452e4e24b13343171d68c7f5fd068e5142b7caffa026522ff849a288b74"
         },
         "ipkSize": 27305722
       },
