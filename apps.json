@@ -31,16 +31,16 @@
       "fullDescriptionUrl": "description.html"
     },
     {
-      "id": "org.webosbrew.piccap.0.3.0",
-      "title": "PicCap 0.3.0 MOD",
+      "id": "org.webosbrew.piccap.0.2.4",
+      "title": "PicCap 0.2.4 MOD",
       "iconUri": "https://syspoke.github.io/logo_pic.png",
       "manifestUrl": "",
       "manifest": {
         "id": "org.webosbrew.piccap",
-        "version": "0.3.0",
+        "version": "0.2.4",
         "type": "web",
-        "title": "PicCap 0.3.0 MOD",
-        "appDescription": "Piccap 0.3.0 MOD",
+        "title": "PicCap 0.2.4 MOD",
+        "appDescription": "Piccap 0.2.4 MOD",
         "iconUri": "https://syspoke.github.io/logo_pic.png",
         "sourceUrl": "https://github.com/webosbrew/piccap",
         "rootRequired": true,
@@ -51,7 +51,7 @@
         "ipkSize": 2506656
       },
       "pool": "main",
-      "shortDescription": "piccap 0.3.0 MOD",
+      "shortDescription": "piccap 0.2.4 MOD",
       "fullDescriptionUrl": "description.html"
     },
     {
