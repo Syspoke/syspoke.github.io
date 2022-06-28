@@ -31,30 +31,6 @@
       "fullDescriptionUrl": "description.html"
     },
     {
-      "id": "org.webosbrew.piccap.0.2.4",
-      "title": "PicCap 0.2.4 MOD",
-      "iconUri": "https://syspoke.github.io/logo_pic.png",
-      "manifestUrl": "",
-      "manifest": {
-        "id": "org.webosbrew.piccap",
-        "version": "0.2.4",
-        "type": "web",
-        "title": "PicCap 0.2.4 MOD",
-        "appDescription": "Piccap 0.2.4 MOD",
-        "iconUri": "https://syspoke.github.io/logo_pic.png",
-        "sourceUrl": "https://github.com/webosbrew/piccap",
-        "rootRequired": true,
-        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.3.0/piccap.ipk",
-        "ipkHash": {
-          "sha256": "bfdfe1440e183ecf2d090413df922596d1295ae0da5b2309bc0c3c65d03706be"
-        },
-        "ipkSize": 2506656
-      },
-      "pool": "main",
-      "shortDescription": "piccap 0.2.4 MOD",
-      "fullDescriptionUrl": "description.html"
-    },
-    {
       "id": "org.webosbrew.hyperhdr.tv.loader",
       "title": "HyperHDR MOD LUT",
       "iconUri": "https://syspoke.github.io/logo_hdr.png",
@@ -142,7 +118,7 @@
         "rootRequired": true,
         "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/1.0.2/BackendsHDR.ipk",
         "ipkHash": {
-          "sha256": "6e49a3f52d70a281f99b58629e191a9738548cbb433c16ef0eb3104e759ea4ea"
+          "sha256": "3dc86b80d7912d6bb3f362042eacaa3425f7132074fd161fcdd93a3570cfda79"
         },
         "ipkSize": 27305722
       },
