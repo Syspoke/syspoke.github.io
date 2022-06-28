@@ -32,14 +32,14 @@
     },
     {
       "id": "org.webosbrew.hyperhdr.tv.loader",
-      "title": "HyperHDR MOD LUT",
+      "title": "HyperHDR MOD",
       "iconUri": "https://syspoke.github.io/logo_hdr.png",
       "manifestUrl": "",
       "manifest": {
         "id": "org.webosbrew.hyperhdr.tv.loader",
         "version": "0.1.4",
         "type": "native",
-        "title": "HyperHDR MOD LUT",
+        "title": "HyperHDR MOD",
         "appDescription": "HyperHDR",
         "iconUri": "https://syspoke.github.io/logo_hdr.png",
         "sourceUrl": "https://github.com/webosbrew/hyperhdr-webos-loader",

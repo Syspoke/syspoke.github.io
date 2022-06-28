@@ -15,10 +15,6 @@ Updated frequently
 
 includes unicapture backend with auto HDR switch and led flickering Fix
 
-* __PicCap 0.3.0 Mod [javascript UI]__
-
-includes unicapture backend with auto HDR switch and led flickering Fix
-
 * __v1 PicCap OnOff remote control__
 
 Use the Movie/Rakuten button on the remote control to stop or start PicCap capture
@@ -29,15 +25,9 @@ Use with piccap 0.2.3 or piccap 0.3.0 MOD
 Use the Movie/Rakuten button on the remote control to stop or start PicCap capture
 Use with latest Piccap build
 
-* __BackendsHDR__
+* __webOS Tools__
 
-Unicapture Backends with HDR auto switch/Led flickering FIX
-
-Flat LUT loader for hyperHDR
-
-Piccap 0.2.3 Fix GUI
-
-Use only with original Piccap 0.2.3 build
+LG webOS testing tools
 
 # Configure Repo in Homebrew Channel settings:
 
