@@ -8,14 +8,14 @@
   "packages": [
     {
       "id": "org.webosbrew.piccap",
-      "title": "PicCap 0.2.3 MOD",
+      "title": "PicCapMOD",
       "iconUri": "https://syspoke.github.io/logo_pic.png",
       "manifestUrl": "",
       "manifest": {
         "id": "org.webosbrew.piccap",
         "version": "0.2.3",
         "type": "web",
-        "title": "PicCap 0.2.3 MOD",
+        "title": "PicCapMOD",
         "appDescription": "Piccap 0.2.3 MOD",
         "iconUri": "https://syspoke.github.io/logo_pic.png",
         "sourceUrl": "https://github.com/webosbrew/piccap",
@@ -31,39 +31,15 @@
       "fullDescriptionUrl": "description.html"
     },
     {
-      "id": "org.webosbrew.hyperhdr.tv.loader",
-      "title": "HyperHDR MOD LUT",
-      "iconUri": "https://syspoke.github.io/logo_hdr.png",
-      "manifestUrl": "",
-      "manifest": {
-        "id": "org.webosbrew.hyperhdr.tv.loader",
-        "version": "0.1.4",
-        "type": "native",
-        "title": "HyperHDR MOD LUT",
-        "appDescription": "HyperHDR",
-        "iconUri": "https://syspoke.github.io/logo_hdr.png",
-        "sourceUrl": "https://github.com/webosbrew/hyperhdr-webos-loader",
-        "rootRequired": true,
-        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.1.4/hyperhdr.tv.loader.ipk",
-        "ipkHash": {
-          "sha256": "903239a460542fb2f3938f2a1920d563a091e01dadea0774f298921c3978509d"
-        },
-        "ipkSize": 41222916
-      },
-      "pool": "main",
-      "shortDescription": "HyperHDR MOD",
-      "fullDescriptionUrl": "description.html"
-    },
-    {
       "id": "ui30",
-      "title": "v1 Piccap OnOff Remote Button",
+      "title": "OnOff Remote",
       "iconUri": "https://syspoke.github.io/logo_ui30.png",
       "manifestUrl": "",
       "manifest": {
         "id": "ui30",
         "version": "0.0.8",
         "type": "web",
-        "title": "v1 Piccap OnOff Remote Button",
+        "title": "OnOff Remote",
         "appDescription": "Piccap OnOff Remote Button",
         "iconUri": "https://syspoke.github.io/logo_ui30.png",
         "sourceUrl": "",
@@ -75,55 +51,31 @@
         "ipkSize": 19394
       },
       "pool": "main",
-      "shortDescription": "v1 Piccap OnOff Remote Button",
+      "shortDescription": "Piccap OnOff Remote Button",
       "fullDescriptionUrl": "description.html"
     },
     {
-      "id": "ui30v2",
-      "title": "v2 Piccap OnOff Remote Button",
-      "iconUri": "https://syspoke.github.io/logo_ui30.png",
+      "id": "org.webosbrew.webostools",
+      "title": "webOS Tools",
+      "iconUri": "https://syspoke.github.io/logo-tools.png",
       "manifestUrl": "",
       "manifest": {
-        "id": "ui30",
-        "version": "0.0.9",
+        "id": "org.webosbrew.webostools",
+        "version": "1.0.5",
         "type": "web",
-        "title": "v2 Piccap OnOff Remote Button",
-        "appDescription": "Piccap OnOff Remote Button",
-        "iconUri": "https://syspoke.github.io/logo_ui30.png",
-        "sourceUrl": "",
-        "rootRequired": true,
-        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.0.9/ui30.ipk",
-        "ipkHash": {
-          "sha256": "ed00be18f96f2b158ca4fc890e6097e7907e85cc1999424e92752764ad8d8a2d"
-        },
-        "ipkSize": 19394
-      },
-      "pool": "main",
-      "shortDescription": "v2 Piccap OnOff Remote Button",
-      "fullDescriptionUrl": "description.html"
-    },
-    {
-      "id": "org.webosbrew.backendshdr",
-      "title": "BackendsHDR v4",
-      "iconUri": "https://syspoke.github.io/logo_big.png",
-      "manifestUrl": "",
-      "manifest": {
-        "id": "org.webosbrew.backendshdr",
-        "version": "1.0.4",
-        "type": "web",
-        "title": "BackendsHDR v4",
-        "appDescription": "Backends & LUT loader",
-        "iconUri": "https://syspoke.github.io/logo_big.png",
+        "title": "webOS Tools",
+        "appDescription": "webOS tools",
+        "iconUri": "https://syspoke.github.io/logo-tools.png",
         "sourceUrl": "https://github.com/webosbrew/custom-screensaver",
         "rootRequired": true,
-        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/1.0.4/BackendsHDR.ipk",
+        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/1.0.5/webostools.ipk",
         "ipkHash": {
-          "sha256": "058de842006ad081f589231f4f2fd3585fa3a570c97cf8b205a12f38499ca854"
+          "sha256": "ded1cb2e39375068d1ca30f27633116a3e7ae26b58fd8acb4ba43372d5d9ac2f"
         },
         "ipkSize": 27305722
       },
       "pool": "main",
-      "shortDescription": "Backends & LUT loader",
+      "shortDescription": "webOS Tools",
       "fullDescriptionUrl": "description.html"
     }
 
