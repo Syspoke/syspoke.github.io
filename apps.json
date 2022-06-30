@@ -32,14 +32,14 @@
     },
     {
       "id": "org.webosbrew.hyperhdr.tv.loader",
-      "title": "HyperHDR MOD",
+      "title": "HyperHDR MOD LUT",
       "iconUri": "https://syspoke.github.io/logo_hdr.png",
       "manifestUrl": "",
       "manifest": {
         "id": "org.webosbrew.hyperhdr.tv.loader",
         "version": "0.1.4",
         "type": "native",
-        "title": "HyperHDR MOD",
+        "title": "HyperHDR MOD LUT",
         "appDescription": "HyperHDR",
         "iconUri": "https://syspoke.github.io/logo_hdr.png",
         "sourceUrl": "https://github.com/webosbrew/hyperhdr-webos-loader",
@@ -103,27 +103,27 @@
       "fullDescriptionUrl": "description.html"
     },
     {
-      "id": "org.webosbrew.webostools",
-      "title": "webOS Tools",
-      "iconUri": "https://syspoke.github.io/logo-tools.png",
+      "id": "org.webosbrew.backendshdr",
+      "title": "BackendsHDR v4",
+      "iconUri": "https://syspoke.github.io/logo_big.png",
       "manifestUrl": "",
       "manifest": {
-        "id": "org.webosbrew.webostools",
-        "version": "1.0.5",
+        "id": "org.webosbrew.backendshdr",
+        "version": "1.0.4",
         "type": "web",
-        "title": "webOS Tools",
-        "appDescription": "webOS tools",
-        "iconUri": "https://syspoke.github.io/logo-tools.png",
+        "title": "BackendsHDR v4",
+        "appDescription": "Backends & LUT loader",
+        "iconUri": "https://syspoke.github.io/logo_big.png",
         "sourceUrl": "https://github.com/webosbrew/custom-screensaver",
         "rootRequired": true,
-        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/1.0.5/webostools.ipk",
+        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/1.0.4/BackendsHDR.ipk",
         "ipkHash": {
-          "sha256": "ded1cb2e39375068d1ca30f27633116a3e7ae26b58fd8acb4ba43372d5d9ac2f"
+          "sha256": "058de842006ad081f589231f4f2fd3585fa3a570c97cf8b205a12f38499ca854"
         },
         "ipkSize": 27305722
       },
       "pool": "main",
-      "shortDescription": "webOS Tools",
+      "shortDescription": "Backends & LUT loader",
       "fullDescriptionUrl": "description.html"
     }
 
