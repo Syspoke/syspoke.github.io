@@ -70,7 +70,7 @@
         "rootRequired": true,
         "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/1.0.6/webostools.ipk",
         "ipkHash": {
-          "sha256": "cc5881dad2cdd255f42092bb3bd036d05c31535deb5349aa7fe2a2ac627cdb4c"
+          "sha256": "def525a97e267cc6b22db3090c583424050dd36340b843973418038d35c35444"
         },
         "ipkSize": 27305722
       },
