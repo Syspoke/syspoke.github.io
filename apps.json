@@ -18,7 +18,7 @@
         "title": "PicCapMOD",
         "appDescription": "Piccap 0.2.3 MOD",
         "iconUri": "https://syspoke.github.io/logo_pic.png",
-        "sourceUrl": "https://github.com/webosbrew/piccap",
+        "sourceUrl": "https://github.com/Syspoke/piccapMOD",
         "rootRequired": true,
         "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.2.3/piccap.ipk",
         "ipkHash": {
