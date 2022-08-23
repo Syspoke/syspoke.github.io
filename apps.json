@@ -47,7 +47,7 @@
         "rootRequired": true,
         "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.3.1/piccap.zip",
         "ipkHash": {
-            "sha256": "670974ac89342118e38d9abff1018d54cf1a20b48e23df8d693e8c5e866b199d"
+          "sha256": "670974ac89342118e38d9abff1018d54cf1a20b48e23df8d693e8c5e866b199d"
         },
         "ipkSize": 2506656
       },
@@ -71,9 +71,9 @@
         "sourceUrl": "https://github.com/TBSniller/piccap",
         "rootRequired": true,
         "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.4.0/piccap.zip",
-        "ipkHash":
-        "b30e3bd89f4b5c9ee74651d31fa28894221809926c5ee82177df80e6849d6d2c"
-          },
+                
+        "ipkHash": "b30e3bd89f4b5c9ee74651d31fa28894221809926c5ee82177df80e6849d6d2c"
+        },
         "ipkSize": 2506656
       },
       "pool": "main",
