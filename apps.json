@@ -30,6 +30,31 @@
       "shortDescription": "piccap 0.2.3 MOD",
       "fullDescriptionUrl": "description.html"
     },
+    {
+      "id": "org.webosbrew.piccap3",
+      "title": "PicCap 0.3.0",
+      "iconUri": "https://raw.githubusercontent.com/TBSniller/piccap/main/piccap/logo_big.png",
+      "manifestUrl": "",
+      "manifest": {
+        "id": "org.webosbrew.piccap3",
+        "version": "0.3.0",
+        "type": "web",
+        "title": "PicCap 0.3.0",
+        "appDescription": "Piccap 0.3.0 MOD",
+        "iconUri": "https://syspoke.github.io/logo_pic.png",
+        "sourceUrl": "https://github.com/TBSniller/piccap",
+        "rootRequired": true,
+        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.3.1/piccap.zip",
+        "ipkHash": {
+          "sha256": "670974ac89342118e38d9abff1018d54cf1a20b48e23df8d693e8c5e866b199d"
+        },
+        "ipkSize": 2506656
+      },
+      "pool": "main",
+      "shortDescription": "piccap 0.3.0",
+      "fullDescriptionUrl": "description.html"
+    },
+
     
     {
       "id": "ui30",
