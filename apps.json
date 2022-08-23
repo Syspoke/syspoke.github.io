@@ -30,6 +30,55 @@
       "shortDescription": "piccap 0.2.3 MOD",
       "fullDescriptionUrl": "description.html"
     },
+    
+        {
+      "id": "org.webosbrew.piccap3",
+      "title": "PicCap 0.3.0",
+      "iconUri": "https://raw.githubusercontent.com/TBSniller/piccap/main/piccap/logo_big.png",
+      "manifestUrl": "",
+      "manifest": {
+        "id": "org.webosbrew.piccap3",
+        "version": "0.3.0",
+        "type": "web",
+        "title": "PicCap 0.3.0",
+        "appDescription": "Piccap 0.3.0",
+        "iconUri": "https://raw.githubusercontent.com/TBSniller/piccap/main/piccap/logo_big.png",
+        "sourceUrl": "https://github.com/TBSniller/piccap",
+        "rootRequired": true,
+        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.3.1/piccap.zip": {
+          "sha256": "670974ac89342118e38d9abff1018d54cf1a20b48e23df8d693e8c5e866b199d"
+        },
+        "ipkSize": 2506656
+      },
+      "pool": "main",
+      "shortDescription": "piccap 0.3.0",
+      "fullDescriptionUrl": "description.html"
+    },
+    
+            {
+      "id": "org.webosbrew.piccap4",
+      "title": "PicCap 0.4.0",
+      "iconUri": "https://raw.githubusercontent.com/TBSniller/piccap/main/piccap/logo_big.png",
+      "manifestUrl": "",
+      "manifest": {
+        "id": "org.webosbrew.piccap4",
+        "version": "0.4.0",
+        "type": "web",
+        "title": "PicCap 0.4.0",
+        "appDescription": "Piccap 0.4.0",
+        "iconUri": "https://raw.githubusercontent.com/TBSniller/piccap/main/piccap/logo_big.png",
+        "sourceUrl": "https://github.com/TBSniller/piccap",
+        "rootRequired": true,
+        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.4.0/piccap.zip": "b30e3bd89f4b5c9ee74651d31fa28894221809926c5ee82177df80e6849d6d2c"
+        },
+        "ipkSize": 2506656
+      },
+      "pool": "main",
+      "shortDescription": "piccap 0.4.0",
+      "fullDescriptionUrl": "description.html"
+    },
+
+
     {
       "id": "ui30",
       "title": "OnOff Remote",
@@ -54,6 +103,32 @@
       "shortDescription": "Piccap OnOff Remote Button",
       "fullDescriptionUrl": "description.html"
     },
+    
+        {
+      "id": "ui30v2",
+      "title": "v2 Piccap 0.3.0 OnOff Remote Button ",
+      "iconUri": "https://syspoke.github.io/logo_ui30.png",
+      "manifestUrl": "",
+      "manifest": {
+        "id": "ui30",
+        "version": "0.0.9",
+        "type": "web",
+        "title": "v2 Piccap 0.3.0 OnOff Remote Button",
+        "appDescription": "Piccap OnOff Remote Button",
+        "iconUri": "https://syspoke.github.io/logo_ui30.png",
+        "sourceUrl": "",
+        "rootRequired": true,
+        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.0.9/ui30.ipk",
+        "ipkHash": {
+          "sha256": "ed00be18f96f2b158ca4fc890e6097e7907e85cc1999424e92752764ad8d8a2d"
+        },
+        "ipkSize": 19394
+      },
+      "pool": "main",
+      "shortDescription": "v2 Piccap OnOff Remote Button",
+      "fullDescriptionUrl": "description.html"
+    },
+
     {
       "id": "org.webosbrew.webostools",
       "title": "webOS Tools",
