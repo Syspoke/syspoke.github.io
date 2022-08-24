@@ -8,7 +8,7 @@
   "packages": [
     {
       "id": "org.webosbrew.piccap",
-      "title": "PicCapMOD",
+      "title": "PicCapMOD 0.2.3",
       "iconUri": "https://syspoke.github.io/logo_pic.png",
       "manifestUrl": "",
       "manifest": {
