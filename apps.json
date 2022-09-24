@@ -70,7 +70,7 @@
         "rootRequired": true,
         "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.4.0/piccap.zip",
         "ipkHash": {
-          "sha256": "132f66255f98bd078fcb0325625350969c0725b18abd237c0cb3cd5a2e2fcba9"
+          "sha256": "8bc1a128ae5e3c63b53036eb87c01f5ea8728b9db38d36ec4ea222df80c840da"
         },
         "ipkSize": 2506656
       },
