@@ -33,7 +33,7 @@
     {
       "id": "org.webosbrew.piccap3",
       "title": "PicCap 0.3.0",
-      "iconUri": "https://raw.githubusercontent.com/TBSniller/piccap/main/piccap/logo_big.png",
+      "iconUri": "https://raw.githubusercontent.com/TBSniller/piccap/main/frontend/assets/logo_big.png",
       "manifestUrl": "",
       "manifest": {
         "id": "org.webosbrew.piccap3",
@@ -57,7 +57,7 @@
     {
       "id": "org.webosbrew.piccap4",
       "title": "PicCap 0.4.1",
-      "iconUri": "https://raw.githubusercontent.com/TBSniller/piccap/main/piccap/logo_big.png",
+      "iconUri": "https://raw.githubusercontent.com/TBSniller/piccap/main/frontend/assets/logo_big.png",
       "manifestUrl": "",
       "manifest": {
         "id": "org.webosbrew.piccap4",
