@@ -56,21 +56,21 @@
     },
     {
       "id": "org.webosbrew.piccap4",
-      "title": "PicCap 0.4.0",
+      "title": "PicCap 0.4.1",
       "iconUri": "https://raw.githubusercontent.com/TBSniller/piccap/main/piccap/logo_big.png",
       "manifestUrl": "",
       "manifest": {
         "id": "org.webosbrew.piccap4",
-        "version": "0.4.0",
+        "version": "0.4.1",
         "type": "web",
-        "title": "PicCap 0.4.0",
-        "appDescription": "Piccap 0.4.0",
+        "title": "PicCap 0.4.1",
+        "appDescription": "Piccap 0.4.1",
         "iconUri": "https://syspoke.github.io/logo_pic.png",
         "sourceUrl": "https://github.com/TBSniller/piccap",
         "rootRequired": true,
         "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.4.0/piccap.zip",
         "ipkHash": {
-          "sha256": "8bc1a128ae5e3c63b53036eb87c01f5ea8728b9db38d36ec4ea222df80c840da"
+          "sha256": "ac16a66a5be1270d56c6e19ee7ff1279dc183cc088b1fa861ab47315460c1d33"
         },
         "ipkSize": 2506656
       },
