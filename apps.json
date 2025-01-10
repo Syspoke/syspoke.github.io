@@ -1,159 +1,34 @@
 {
   "paging": {
     "page": 1,
-    "count": 6,
+    "count": 1,
     "maxPage": 1,
-    "itemsTotal": 6
+    "itemsTotal": 1
   },
   "packages": [
     {
-      "id": "org.webosbrew.piccap",
-      "title": "PicCapMOD 0.2.3",
-      "iconUri": "https://syspoke.github.io/logo_pic.png",
+      "id": "org.webosbrew.hyperhdr.tv.loader",
+      "title": "HyperHDR",
+      "iconUri": "https://raw.githubusercontent.com/webosbrew/hyperhdr-webos-loader/master/assets/logo_big.png",
       "manifestUrl": "",
       "manifest": {
-        "id": "org.webosbrew.piccap",
-        "version": "0.2.3",
-        "type": "web",
-        "title": "PicCapMOD",
-        "appDescription": "Piccap 0.2.3 MOD",
-        "iconUri": "https://syspoke.github.io/logo_pic.png",
-        "sourceUrl": "https://github.com/Syspoke/piccapMOD",
+        "id": "org.webosbrew.hyperhdr.tv.loader",
+        "version": "0.1.10",
+        "type": "native",
+        "title": "HyperHDR",
+        "appDescription": "HyperHDR",
+        "iconUri": "https://raw.githubusercontent.com/webosbrew/hyperhdr-webos-loader/master/assets/logo_big.png",
+        "sourceUrl": "https://github.com/webosbrew/hyperhdr-webos-loader",
         "rootRequired": true,
-        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.2.3/piccap.ipk",
+        "ipkUrl": "https://github.com/webosbrew/hyperhdr-webos-loader/releases/download/latest/org.webosbrew.hyperhdr.loader_0.1.10_all.ipk",
         "ipkHash": {
-          "sha256": "9153208b6adefd6d0470ec4dcbc052a86289002ea6fcf0ec17e9aba14cc8af8f"
+          "sha256": "8fce065013eab522a466580c02a58041a8928d092f61718ec707d45f520175a9"
         },
-        "ipkSize": 2506656
+        "ipkSize": 41222916
       },
       "pool": "main",
-      "shortDescription": "piccap 0.2.3 MOD",
-      "fullDescriptionUrl": "description.html"
-    },
-    {
-      "id": "org.webosbrew.piccap3",
-      "title": "PicCap 0.3.0",
-      "iconUri": "https://raw.githubusercontent.com/TBSniller/piccap/main/frontend/assets/logo_big.png",
-      "manifestUrl": "",
-      "manifest": {
-        "id": "org.webosbrew.piccap3",
-        "version": "0.3.0",
-        "type": "web",
-        "title": "PicCap 0.3.0",
-        "appDescription": "Piccap 0.3.0 MOD",
-        "iconUri": "https://syspoke.github.io/logo_pic.png",
-        "sourceUrl": "https://github.com/TBSniller/piccap",
-        "rootRequired": true,
-        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.3.1/piccap.zip",
-        "ipkHash": {
-          "sha256": "670974ac89342118e38d9abff1018d54cf1a20b48e23df8d693e8c5e866b199d"
-        },
-        "ipkSize": 2506656
-      },
-      "pool": "main",
-      "shortDescription": "piccap 0.3.0",
-      "fullDescriptionUrl": "description.html"
-    },
-    {
-      "id": "org.webosbrew.piccap4",
-      "title": "PicCap 0.4.1",
-      "iconUri": "https://raw.githubusercontent.com/TBSniller/piccap/main/frontend/assets/logo_big.png",
-      "manifestUrl": "",
-      "manifest": {
-        "id": "org.webosbrew.piccap4",
-        "version": "0.4.1",
-        "type": "web",
-        "title": "PicCap 0.4.1",
-        "appDescription": "Piccap 0.4.1",
-        "iconUri": "https://syspoke.github.io/logo_pic.png",
-        "sourceUrl": "https://github.com/TBSniller/piccap",
-        "rootRequired": true,
-        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.4.0/piccap.zip",
-        "ipkHash": {
-          "sha256": "ac16a66a5be1270d56c6e19ee7ff1279dc183cc088b1fa861ab47315460c1d33"
-        },
-        "ipkSize": 2506656
-      },
-      "pool": "main",
-      "shortDescription": "piccap 0.4.0",
-      "fullDescriptionUrl": "description.html"
-    },
-
-    
-    {
-      "id": "ui30",
-      "title": "OnOff Remote",
-      "iconUri": "https://syspoke.github.io/logo_ui30.png",
-      "manifestUrl": "",
-      "manifest": {
-        "id": "ui30",
-        "version": "0.0.8",
-        "type": "web",
-        "title": "OnOff Remote",
-        "appDescription": "Piccap OnOff Remote Button",
-        "iconUri": "https://syspoke.github.io/logo_ui30.png",
-        "sourceUrl": "https://github.com/Bahoue/OnOff-Remote",
-        "rootRequired": true,
-        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.0.8/ui30.ipk",
-        "ipkHash": {
-          "sha256": "6be7996aaf3036e9de8a9a0c9f255e2101b8dea6983f5f0e89b8c7f4157748c5"
-        },
-        "ipkSize": 19394
-      },
-      "pool": "main",
-      "shortDescription": "Piccap OnOff Remote Button",
-      "fullDescriptionUrl": "description.html"
-    },
-    
-        {
-      "id": "ui30v2",
-      "title": "v2 Piccap 0.3.0 OnOff Remote Button ",
-      "iconUri": "https://syspoke.github.io/logo_ui30.png",
-      "manifestUrl": "",
-      "manifest": {
-        "id": "ui30",
-        "version": "0.0.9",
-        "type": "web",
-        "title": "v2 Piccap 0.3.0 OnOff Remote Button",
-        "appDescription": "Piccap OnOff Remote Button",
-        "iconUri": "https://syspoke.github.io/logo_ui30.png",
-        "sourceUrl": "",
-        "rootRequired": true,
-        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.0.9/ui30.ipk",
-        "ipkHash": {
-          "sha256": "ed00be18f96f2b158ca4fc890e6097e7907e85cc1999424e92752764ad8d8a2d"
-        },
-        "ipkSize": 19394
-      },
-      "pool": "main",
-      "shortDescription": "v2 Piccap OnOff Remote Button",
-      "fullDescriptionUrl": "description.html"
-    },
-
-    {
-      "id": "org.webosbrew.webostools",
-      "title": "webOS Tools",
-      "iconUri": "https://syspoke.github.io/logo-tools.png",
-      "manifestUrl": "",
-      "manifest": {
-        "id": "org.webosbrew.webostools",
-        "version": "1.0.6",
-        "type": "web",
-        "title": "webOS Tools",
-        "appDescription": "webOS tools",
-        "iconUri": "https://syspoke.github.io/logo-tools.png",
-        "sourceUrl": "https://github.com/Syspoke/webostools",
-        "rootRequired": true,
-        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/1.0.6/webostools.ipk",
-        "ipkHash": {
-          "sha256": "62a91a6c84899450fdf93fbe18648e0b11948cf5f23925bd101d72e9e78e6ff6"
-        },
-        "ipkSize": 27305722
-      },
-      "pool": "main",
-      "shortDescription": "webOS Tools",
+      "shortDescription": "HyperHDR",
       "fullDescriptionUrl": "description.html"
     }
-
   ]
 }
