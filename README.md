@@ -1,6 +1,12 @@
 # syspoke.github.io
-Repo alternative for webOS Homebrew Channel
+Private Repo for LG webOS Homebrew Channel
 
+Apps:
+HyperHDR 21.0.0.0beta1
+
+
+
+[Archives not available]
 Apps:
 
 * __HyperHDR Mod__
