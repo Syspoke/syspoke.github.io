@@ -46,7 +46,7 @@
         "rootRequired": true,
         "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.5.0/org.webosbrew.piccap_0.5.0_all.ipk",
         "ipkHash": {
-          "sha256": "e3c74ddbe43bbf64544d42284a2976c44c217623242bdb2c7ae8369f4955821a"
+          "sha256": "4b9680783150f31ef4bd05a194b0a1e86925749b76107ed5a4ab9a8710f3c0ae"
         },
         "ipkSize": 41222916
       },
