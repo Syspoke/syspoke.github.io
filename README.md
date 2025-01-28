@@ -2,7 +2,7 @@
 Private Repo for LG webOS Homebrew Channel
 
 Apps:
-* HyperHDR 21.0.0.0beta1
+* HyperHDR 21.0.0.0beta2
 * PicCap 0.5.0
 
 
