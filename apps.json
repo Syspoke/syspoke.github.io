@@ -3,7 +3,7 @@
     "page": 1,
     "count": 1,
     "maxPage": 1,
-    "itemsTotal": 1
+    "itemsTotal": 2
   },
   "packages": [
     {
@@ -13,16 +13,16 @@
       "manifestUrl": "",
       "manifest": {
         "id": "org.webosbrew.hyperhdr.tv.loader",
-        "version": "0.1.10",
+        "version": "0.1.11",
         "type": "native",
         "title": "HyperHDR",
         "appDescription": "HyperHDR",
         "iconUri": "https://raw.githubusercontent.com/webosbrew/hyperhdr-webos-loader/master/assets/logo_big.png",
         "sourceUrl": "https://github.com/webosbrew/hyperhdr-webos-loader",
         "rootRequired": true,
-        "ipkUrl": "https://github.com/webosbrew/hyperhdr-webos-loader/releases/download/latest/org.webosbrew.hyperhdr.loader_0.1.10_all.ipk",
+        "ipkUrl": "https://github.com/Syspoke/hyperhdr-webos-loader/releases/download/v0.1.11/org.webosbrew.hyperhdr.loader_0.1.11_all.ipk",
         "ipkHash": {
-          "sha256": "8fce065013eab522a466580c02a58041a8928d092f61718ec707d45f520175a9"
+          "sha256": "af337c31ba85da3834c7431e8681bd59730bc643eb0dd2548b19d5a4433aeea2"
         },
         "ipkSize": 41222916
       },
