@@ -44,9 +44,9 @@
         "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.piccap.png",
         "sourceUrl": "https://github.com/webosbrew/piccap",
         "rootRequired": true,
-        "ipkUrl": "https://github.com/Syspoke/syspoke.github.io/releases/download/0.5.0/org.webosbrew.piccap_0.5.0_all.ipk",
+        "ipkUrl": "https://github.com/TBSniller/piccap/releases/download/0.5.0/org.webosbrew.piccap_0.5.0_all.ipk",
         "ipkHash": {
-          "sha256": "aa993265eea5da65b97a27305d8fd8efe14be2678f45d804918baae6da4c8cfe"
+          "sha256": "9d0d15fbe7929e3e5723925e8f050cbccfbb6ea985e6bce7971a9914563dc37b"
         },
         "ipkSize": 41222916
       },
