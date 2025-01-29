@@ -46,7 +46,7 @@
         "rootRequired": true,
         "ipkUrl": "https://github.com/TBSniller/piccap/releases/download/0.5.0/org.webosbrew.piccap_0.5.0_all.ipk",
         "ipkHash": {
-          "sha256": "9d0d15fbe7929e3e5723925e8f050cbccfbb6ea985e6bce7971a9914563dc37b"
+          "sha256": "8ce4fbeabb7661b0d95c937784d934962581176bf7ca5918953e49d1ee902261"
         },
         "ipkSize": 41222916
       },
