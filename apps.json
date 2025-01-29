@@ -20,9 +20,9 @@
         "iconUri": "https://raw.githubusercontent.com/webosbrew/hyperhdr-webos-loader/master/assets/logo_big.png",
         "sourceUrl": "https://github.com/webosbrew/hyperhdr-webos-loader",
         "rootRequired": true,
-        "ipkUrl": "https://github.com/Syspoke/hyperhdr-webos-loader/releases/download/v0.1.11/org.webosbrew.hyperhdr.loader_0.1.11_all.ipk",
+        "ipkUrl": "https://github.com/webosbrew/hyperhdr-webos-loader/releases/download/v0.1.11/org.webosbrew.hyperhdr.loader_0.1.11_all.ipk",
         "ipkHash": {
-          "sha256": "af337c31ba85da3834c7431e8681bd59730bc643eb0dd2548b19d5a4433aeea2"
+          "sha256": "bc0d30def7668dc4f086d5c57c3b7c1bf3e31704516667dfc712749adc4b4206"
         },
         "ipkSize": 41222916
       },
