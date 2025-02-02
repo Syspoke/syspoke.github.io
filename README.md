@@ -2,7 +2,7 @@
 Private Repo for LG webOS Homebrew Channel
 
 Apps:
-* HyperHDR 21.0.0.0beta2
+* __HyperHDR 21.0.0.0beta2__
 - Add Settings Panel with Lut install selector
 
 
