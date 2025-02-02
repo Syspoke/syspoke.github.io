@@ -3,7 +3,7 @@
     "page": 1,
     "count": 1,
     "maxPage": 1,
-    "itemsTotal": 2
+    "itemsTotal": 1
   },
   "packages": [
     {
@@ -20,40 +20,16 @@
         "iconUri": "https://raw.githubusercontent.com/webosbrew/hyperhdr-webos-loader/master/assets/logo_big.png",
         "sourceUrl": "https://github.com/webosbrew/hyperhdr-webos-loader",
         "rootRequired": true,
-        "ipkUrl": "https://github.com/webosbrew/hyperhdr-webos-loader/releases/download/v0.1.11/org.webosbrew.hyperhdr.loader_0.1.11_all.ipk",
+        "ipkUrl": "https://github.com/Syspoke/hyperhdr-webos-loader/releases/download/v0.1.11/org.webosbrew.hyperhdr.loader_0.1.11_all.ipk",
         "ipkHash": {
-          "sha256": "bc0d30def7668dc4f086d5c57c3b7c1bf3e31704516667dfc712749adc4b4206"
+          "sha256": "f29deb91253733ee6f9ba4d6b8cec76cc025a890c831f9924862decd6fe0ecec"
         },
         "ipkSize": 41222916
       },
       "pool": "main",
       "shortDescription": "HyperHDR",
       "fullDescriptionUrl": "description.html"
-    },
-        {
-      "id": "org.webosbrew.piccap",
-      "title": "PicCap",
-      "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.piccap.png",
-      "manifestUrl": "",
-      "manifest": {
-        "id": "org.webosbrew.piccap",
-        "version": "0.5.0",
-        "type": "web",
-        "title": "PicCap",
-        "appDescription": "PicCap",
-        "iconUri": "https://repo.webosbrew.org/apps/icons/org.webosbrew.piccap.png",
-        "sourceUrl": "https://github.com/webosbrew/piccap",
-        "rootRequired": true,
-        "ipkUrl": "https://github.com/TBSniller/piccap/releases/download/0.5.0/org.webosbrew.piccap_0.5.0_all.ipk",
-        "ipkHash": {
-          "sha256": "8ce4fbeabb7661b0d95c937784d934962581176bf7ca5918953e49d1ee902261"
-        },
-        "ipkSize": 41222916
-      },
-      "pool": "main",
-      "shortDescription": "PicCap",
-      "fullDescriptionUrl": ""
     }
-
+       
   ]
 }
