@@ -5,7 +5,7 @@ Apps:
 * __HyperHDR 21.0.0.0beta2__
   Add Settings Panel with Lut install selector
 
-  (Lut compressed/uncompressed from @satdx62)
+  (Lut file compressed/uncompressed from @satdx62)
 
 
 # Configure Repo in Homebrew Channel settings:
